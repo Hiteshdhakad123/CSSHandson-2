@@ -1,0 +1,152 @@
+#box{
+display: flex;
+
+}
+
+
+#box1{
+width: 400px;
+height: 100px;
+border: 10px solid  red;
+margin: 20px;
+padding: 20px;
+border-radius: 30px;
+text-align: left;
+background-color: black;
+color: white;
+font-size: xx-large;
+}
+#box2{
+    width: 650px;
+    height: 45px;
+    border: 10px solid  red;
+    margin-left: -175px;
+margin-top: 45px;
+    border-radius: 60px;
+    text-align: center;
+    text-align: bottom;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+#box3{
+    width: 400px;
+height: 100px;
+border: 10px solid  red;
+margin: 20px;
+padding: 20px;
+border-radius: 30px;
+text-align: left;
+background-color: black;
+color: white;
+font-size: xx-large;
+
+}
+h2{
+color: rgb(211, 86, 107);
+text-align: center;
+
+
+}
+label{
+    color: rgb(223, 100, 121);
+}
+.form{
+    text-align: center;
+    
+    
+}
+
+   #circle{
+    border: 10px solid green;
+height: 360px;
+width: 460px;
+ border-radius:50% ;
+ text-align: center;
+ margin-top: 120px;
+ padding-top: 100px;
+ margin-bottom: 50px;
+ margin-left: 50px;
+ font-size: 25px;
+ color: black;
+ text-decoration: underline;
+ font-style: italic;
+ background-color:yellow;
+   }
+
+   #circle-form{
+display: flex;
+justify-content: space-around;
+
+    
+   }
+   #main{
+    border-style: dashed;
+    border-width: 10px;
+    padding:10px ;
+    color: red;
+   }
+.red{
+    text-align:center;
+    background-color: black;
+    color: white;
+    border: 10PX solid red;
+    height: 53PX;
+    width: 400px;
+    border-radius: 30px;
+    margin-left: 475px;
+    justify-items: center;
+padding-top: 20px;    
+
+}
+h1{
+    color: blue;
+    text-align: center;
+
+
+}
+li{
+    padding-left: 2em;
+    color: blue;
+}
+
+
+.food-menu {
+    border: 5px solid tomato;
+    width: 350px;
+    height: 250px;
+    border-radius: 30px;
+    margin: 30px;
+    background-color: cyan;
+    color: purple;
+    text-align: center;
+margin-bottom: 0px;
+}
+#food-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+#desert {
+    border: 5px solid tomato;
+    width: 350px;
+    height: 300px;
+    border-radius: 30px;
+    margin: 30px;
+    margin-bottom: 70px;
+    background-color: cyan;
+    color: purple;
+    text-align: center;
+}
+    
+body{
+    border: 10px groove orange;
+    background-color: purple;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+
